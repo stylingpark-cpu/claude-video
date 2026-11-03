@@ -1,0 +1,10 @@
+# Video ve ses dosyaları GitHub sınırını (100 MB) aşar
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.wav
+*.mp3
+*.m4a
+# Ara dosyalar
+ciktilar/render-*/
